@@ -1,0 +1,1 @@
+# This is a placeholder file for Visualize a Chess Board with Python

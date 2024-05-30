@@ -1,0 +1,1 @@
+# This is a placeholder file for Hangman Game with Python

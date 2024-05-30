@@ -1,0 +1,1 @@
+# This is a placeholder file for Create Amazing Graphics with Python

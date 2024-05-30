@@ -1,0 +1,1 @@
+# This is a placeholder file for Game of Life with Python

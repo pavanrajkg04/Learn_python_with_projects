@@ -1,0 +1,1 @@
+# This is a placeholder file for Find the Number of Capital Letters in a File

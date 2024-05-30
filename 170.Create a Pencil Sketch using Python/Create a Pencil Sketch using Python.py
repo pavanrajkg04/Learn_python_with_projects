@@ -1,0 +1,1 @@
+# This is a placeholder file for Create a Pencil Sketch using Python

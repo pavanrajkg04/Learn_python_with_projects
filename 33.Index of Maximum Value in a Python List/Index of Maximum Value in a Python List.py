@@ -1,0 +1,1 @@
+# This is a placeholder file for Index of Maximum Value in a Python List

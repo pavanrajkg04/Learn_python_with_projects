@@ -1,0 +1,1 @@
+# This is a placeholder file for Extract Text From PDF using Python

@@ -1,0 +1,1 @@
+# This is a placeholder file for Bar Code and QR Code Reader

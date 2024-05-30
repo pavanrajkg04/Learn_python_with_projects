@@ -96,3 +96,8 @@ for index, project in enumerate(project_names):
     name = str(index+1)+"." + project
     os.makedirs(name, exist_ok=True)
     print(f"Folder '{project}' created.")
+    file_path = os.path.join(name, project + ".py")
+    with open(file_path, 'w') as f:
+        f.write("# This is a placeholder file for " + project)
+    
+    print(f"Folder '{name}' created with file '{file_path}'.")

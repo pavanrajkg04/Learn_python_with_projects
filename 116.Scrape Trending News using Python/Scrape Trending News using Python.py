@@ -1,0 +1,1 @@
+# This is a placeholder file for Scrape Trending News using Python

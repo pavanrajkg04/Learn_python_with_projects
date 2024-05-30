@@ -1,0 +1,1 @@
+# This is a placeholder file for Python Project Ideas for Final Year

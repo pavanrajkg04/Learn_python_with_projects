@@ -1,0 +1,1 @@
+# This is a placeholder file for Send Automatic Emails using Python
